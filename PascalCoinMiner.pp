@@ -156,7 +156,7 @@ begin
       txt := copy(txt,1,FWindow32X2-FWindow32X1+1);
     end;
     if (nline<=(FWindow32Y2-FWindow32Y1)) then begin
-      GotoXY32(FWindow32X1,nline);
+      GotoXY(FWindow32X1,nline);
       write(txt);
     end;
   finally
