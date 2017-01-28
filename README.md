@@ -16,7 +16,8 @@ cryptographic functions inspirated in code written by Ladar Levison and
 Marco Ferrante.  
 Original source code is written in Pascal Language and is available at   
 https://github.com/PascalCoin/PascalCoin  
-  
+
+**Linux dev donation address 1A88X9PW6qzFAK9Xd8c5Pop67H61v9v6jV **
   
 ## HOW TO COMPILE:  
   
